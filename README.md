@@ -1,2 +1,2 @@
 # odin-recipes
-The main objective of this project was to create a recipe website where i could put into practice and solidify my knowledge in HTML, Git, and GitHub that I acquired through The Foundations Course of The Odin Project. It was a highly enriching experience!
+The main objective of this project was to create a recipes website where i could put into practice and solidify my knowledge in HTML, Git, and GitHub that i acquired through The Foundations Course of The Odin Project. It was a highly enriching experience!
