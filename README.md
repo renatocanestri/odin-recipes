@@ -1,2 +1,2 @@
 # odin-recipes
-The README.md file will be write after i finish the project!
+The main objective of this project was to create a recipe website where i could put into practice and solidify my knowledge in HTML, Git, and GitHub that I acquired through The Foundations Course of The Odin Project. It was a highly enriching experience!
