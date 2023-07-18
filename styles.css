@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(204, 204, 204);
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(39, 12, 12);
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.container {
+    margin: auto;
+    width: 400px;
+    outline: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.img-recipe {
+    width: 400px;
+    height: auto;
+}
+
+.container-recipes {
+    margin: auto;
+    width: 700px;
+    outline: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.list,
+p {
+    text-align: justify;
+}
